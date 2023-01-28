@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exerc-for/exerc-for.iml" filepath="$PROJECT_DIR$/exerc-for/exerc-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc-while/exerc-while.iml" filepath="$PROJECT_DIR$/exerc-while/exerc-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nelioalves.iml" filepath="$PROJECT_DIR$/.idea/nelioalves.iml" />
+    </modules>
+  </component>
+</project>

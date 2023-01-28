@@ -1,0 +1,5 @@
+name: TestdPlugin
+version: '${project.version}'
+main: com.eloi.test.Main
+api-version: 1.19
+authors: [ eloi ]
